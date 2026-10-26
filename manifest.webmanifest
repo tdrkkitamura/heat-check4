@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "現場 暑熱安全確認システム（試作版4）",
+  "short_name": "暑熱安全確認",
+  "description": "建設現場向け体調・WBGT確認の試作ツール。医学的診断ではありません。",
+  "start_url": "./index.html?v=4",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f9",
+  "theme_color": "#143b55",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
